@@ -8,6 +8,7 @@
 _asset_bundler_cache
 _site
 _posts
+_drafts
 codekit-config.json
 Gemfile.lock
 node_modules
